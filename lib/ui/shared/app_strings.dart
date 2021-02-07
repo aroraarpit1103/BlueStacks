@@ -1,0 +1,77 @@
+const String start_days_job = "Start todays job";
+const String end_days_job = "End todays job";
+const String shopName = "Shop Name";
+const String shopOwnerName = "Shop Owner Name";
+const String shopOwnerMobileNo = "Shop Owner Mobile No";
+const String shopOperatorOwnerText = "Shop Operator is the Shop Owner";
+const String shopOperatorNotOwnerText = "Shop Operator is not the Shop Owner";
+const String shopOperatorName = "Operator Name";
+const String outLetName = "Outlet Type";
+const String shopOperatorMobileNo = "Operator Mobile No";
+const String shopOwnerRetailerType = "Retailer Type";
+const String shopSalesPerMonth = "Shop Sales per Month(in \u{20B9})";
+const String shopSize = "Shop Size";
+const String shopNo = "Shop No.(Optional)";
+const String shopStreetAddress = "Street Name/Lane No.(Optional)";
+const String shopNearestLandMark = "Nearest Landmark";
+const String shopGSTNoText = "GST No. available";
+const String shopHubText = "Interested to become Hub";
+const String enter = "Enter";
+const String select = "Select";
+const String continue_text = "Continue";
+const String confirm_text = "Confirm and Review";
+const String add_retailer = "Add Retailer";
+const String review_retailer = "Review Retailer Details";
+const String retailer_list = "Retailer List";
+const String basic_details = "Basic Details";
+const String shop_identity = "Shop Identity";
+const String shop_location = "Shop Location";
+const String village_text = "Village";
+const String district = "District";
+const String capture = "Capture";
+const String capture_msg = "Capture a clear picture of the shop signboard";
+const String capture_self_msg = "Capture a picture of yourself with the shop";
+const String gps_on_msg = "Please turn on GPS Location";
+const String check_out = "Check Out";
+const String check_in = "Check In";
+const String ok = "ok";
+const String no_retailers_added = "No Retailers added yet";
+const String no_retailers_added_subheading = "Reach to the mentioned village and\nCheck In to add new retailer";
+const String add_retailer_disabled = "Add Retailer disabled?";
+const String add_retailer_disabled_reason = "You may be outside the village. Please move towards the village or contact LCME admin?";
+const String add_retailer_disabled_subheading = "Please Check In before adding new retailer.";
+const String checkin_disabled = "Check In disabled?";
+const String checkin_disabled_subheading = "Please follow the below steps.";
+const String checkin_already_checkedin_subheading = "You are already check in another village.";
+const String checkin_disabled_subsubheading = "1. Turn on GPS Location\n2. Reach to the village\n3. Turn on Check IN";
+const String retailers = "retailers";
+const String contacts = "contacts";
+const String sort = "sort";
+const String filter = "filter";
+const String retailer_details = "Retailer Details";
+const String shop_direction_map = "Show Direction on Google Map";
+const String edit_retailer_details = "Edit Retailer Details";
+
+const String starting_job = "Starting today's job";
+const String ending_job = "Ending today's job";
+
+//errors
+const String mobile_number_error = "Please enter your mobile number.";
+const String invalid_mobile_number_error = "Mobile number should be of 10 digits.";
+const String invalid_mobile_pin_error = "Please enter PIN.";
+const String shop_name_error = "Please enter shop name.";
+const String shop_owner_name_error = "Please enter shop owner name.";
+const String shop_owner_mobile_error = "Please enter shop owner mobile number.";
+const String shop_owner_mobile_invalid_error = "Please enter valid mobile number.";
+const String shop_operator_error = "Please enter shop operator name.";
+const String shop_operator_mobile_error = "Please enter shop operator mobile name.";
+const String shop_operator_retailer_type_error = "Please select shop operator retailer type.";
+const String shop_outlet_type_error = "Please select shop outlet type.";
+const String shop_operator_sales_error = "Please enter shop sales.";
+const String shop_size_error = "Please select shop size.";
+const String shop_landmark_error = "Please enter shop's nearest landmark.";
+const String shop_image_error = "Please enter shop's image.";
+const String shop_fot_image_error = "Please enter your image with shop.";
+
+
+
